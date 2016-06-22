@@ -1,0 +1,52 @@
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.Form1.resources
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.Properties.Resources.resources
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\bin\Debug\robo.exe.config
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\bin\Debug\robo.exe
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\bin\Debug\robo.pdb
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.exe
+c:\users\guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2013\Projects\robo\robo\obj\Debug\robo.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\documents\visual studio 2013\Projects\robo\robo\bin\Debug\robo.exe.manifest
+C:\Users\Guilherme\documents\visual studio 2013\Projects\robo\robo\bin\Debug\robo.application
+C:\Users\Guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.exe.manifest
+C:\Users\Guilherme\documents\visual studio 2013\Projects\robo\robo\obj\Debug\robo.application
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\bin\Debug\robo.exe.config
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.exe
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.pdb
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\bin\Debug\robo.exe.manifest
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\bin\Debug\robo.application
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\bin\Debug\robo.exe
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\bin\Debug\robo.pdb
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.Form1.resources
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.Properties.Resources.resources
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.exe.manifest
+C:\Users\Guilherme\Documents\My Dropbox\adriano\Projeto - Robô\robo\robo\obj\Debug\robo.application
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\bin\Debug\robo.exe.config
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.exe
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.pdb
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\bin\Debug\robo.exe.manifest
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\bin\Debug\robo.application
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\bin\Debug\robo.exe
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\bin\Debug\robo.pdb
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.csprojResolveAssemblyReference.cache
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.Form1.resources
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.Properties.Resources.resources
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.exe.manifest
+C:\Users\Adriano\Downloads\Projeto Robô\Projeto - Robô\robo\robo\obj\Debug\robo.application
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\bin\Debug\robo.exe.config
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.exe
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.pdb
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\bin\Debug\robo.exe.manifest
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\bin\Debug\robo.application
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\bin\Debug\robo.exe
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\bin\Debug\robo.pdb
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.csprojResolveAssemblyReference.cache
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.Form1.resources
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.Properties.Resources.resources
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.exe.manifest
+C:\Users\Adriano\Downloads\Projeto - Robô\robo\obj\Debug\robo.application
